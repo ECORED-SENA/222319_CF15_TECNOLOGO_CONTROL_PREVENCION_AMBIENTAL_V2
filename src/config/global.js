@@ -1,17 +1,14 @@
 export default {
   global: {
     componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    descripcionCurso:
+      'Mediante este componente, se estudian elementos de la educación ambiental, política nacional de educación ambiental, estrategias de acción en promotorías ambientales y fortalecimiento comunitario y social, en el marco del desarrollo medioambiental. Se insta, además, a la adopción de una mirada efectiva de inclusión, equidad y promoción de los individuos y colectivos, como protagonistas de estos procesos. ',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
-      },
-      {
-        clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
       },
     ],
   },
@@ -31,13 +28,23 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Conceptos generales',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Educación ambiental',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Principios de la educación ambiental',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Objetivos de la educación ambiental',
+            hash: 't_1_3',
           },
         ],
       },
@@ -45,14 +52,143 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Normativa asociada y Política Nacional de Educación Ambiental',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Caracterización de la población ',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Comunidad y formas organizativas',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'La organización comunitaria',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: 'El territorio y su ordenamiento',
+            hash: 't_3_3',
+          },
+          {
+            numero: '3.4',
+            titulo: 'Igualdad de género',
+            hash: 't_3_4',
+          },
+          {
+            numero: '3.5',
+            titulo: 'Equidad de género',
+            hash: 't_3_5',
+          },
+          {
+            numero: '3.6',
+            titulo: 'Inclusión social',
+            hash: 't_3_6',
+          },
+          {
+            numero: '3.7',
+            titulo: 'Tipos y necesidades de capacitación en las organizaciones',
+            hash: 't_3_7',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Técnicas LNC: tipos, recursos y materiales',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Promotoría ambiental',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '5.1',
+            titulo: 'Importancia de la promotoría ambiental ',
+            hash: 't_5_1',
+          },
+          {
+            numero: '5.2',
+            titulo: 'La promotoría ambiental en Colombia',
+            hash: 't_5_2',
+          },
+          {
+            numero: '5.3',
+            titulo: 'Perfil del promotor',
+            hash: 't_5_3',
+          },
+          {
+            numero: '5.4',
+            titulo: 'Funciones',
+            hash: 't_5_4',
+          },
+          {
+            numero: '5.5',
+            titulo: 'Promotor comunitario',
+            hash: 't_5_5',
+          },
+          {
+            numero: '5.6',
+            titulo: 'Los roles del promotor ambiental',
+            hash: 't_5_6',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema6',
+        numero: '6',
+        titulo: 'Diseño de un plan de promotoría ambiental',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '6.1',
+            titulo: 'Planificación de la promotoría',
+            hash: 't_6_1',
+          },
+          {
+            numero: '6.2',
+            titulo: 'Diseño del Plan',
+            hash: 't_6_2',
+          },
+          {
+            numero: '6.3',
+            titulo: 'Recolección de la información',
+            hash: 't_6_3',
+          },
+          {
+            numero: '6.4',
+            titulo: 'Las metas',
+            hash: 't_6_4',
+          },
+          {
+            numero: '6.5',
+            titulo: 'Plan de acción',
+            hash: 't_6_5',
+          },
+          {
+            numero: '6.6',
+            titulo: 'Seguimiento y evaluación',
+            hash: 't_6_6',
+          },
+          {
+            numero: '6.7',
+            titulo: 'Finalidad del plan de gestión ambiental',
+            hash: 't_6_7',
+          },
+          {
+            numero: '6.8',
+            titulo: 'Ejes de investigación de la promotoría ambiental',
+            hash: 't_6_8',
+          },
+        ],
       },
     ],
     subMenu: [
@@ -97,32 +233,189 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: '1. Conceptos generales',
+      referencia:
+        'CENEAM OAPN. (2019). <i>La Educación Ambiental explicada en cinco minutos (2019)<i> [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=hYOy6grpqoY',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema:
+        '2. Normatividad asociada a la promotoría y política de educación ambiental',
+      referencia:
+        'Correa, E. (2020). <i>Introducción a la Normatividad ambiental en Colombia</i> [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=C8WJtf3JspU',
+    },
+    {
+      tema:
+        '2. Normatividad asociada a la promotoría y política de educación ambiental',
+      referencia:
+        'Ministerio del Medio Ambiente y Ministerio de Educación Nacional. (2002). <i>Política Nacional de Educación Ambiental SINA</i>.',
+      tipo: 'Manual',
+      link:
+        'https://drive.google.com/file/d/1kg0rLJhOf_1GI4fgfnT76OLT8dsb3Syy/view?usp=sharing',
+    },
+    {
+      tema: '4. Técnicas LNC: tipos, recursos y materiales',
+      referencia:
+        'Compartir Palabra Maestra. (2015). <i>¿Qué es un recurso didáctico?</i> [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=10_0nVuXZqo',
+    },
+    {
+      tema: '5. Promotoría ambiental',
+      referencia:
+        'Jardín Botánico de Bogotá. (2014). <i>Formación en Promotoría Ambiental</i>  [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=0w7JELc6ccg',
+    },
+    {
+      tema: '5. Promotoría ambiental',
+      referencia:
+        'Brigadas Verdes. (2013). <i>Tutorial 3 "El Rol del promotor ambiental"</i> [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=Sm_ISgLI0l4',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Ambiente',
+      significado:
+        'región, alrededores y circunstancias en las que se encuentra un ser u objeto. El ambiente de un individuo comprende dos tipos de constituyentes: 1. El medio puramente físico o abiótico, en el cual él existe (aire, agua) y 2. El componente biótico, que comprende la materia orgánica no viviente y todos los organismos, plantas y animales de la región, incluida la población específica a la que pertenece el organismo (CRQ, s. f.).',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'Calidad ambiental',
+      significado:
+        'los atributos mensurables de un producto o proceso que indican su contribución a la salud e integridad ecológica. Estado físico, biológico y ecológico de un área o zona determinada de la biosfera, en términos relativos a su unidad y a la salud presente y futura del hombre y las demás especies animales y vegetales (CRQ, s. f.). ',
+    },
+    {
+      termino: 'Comunidad',
+      significado:
+        'conjunto de seres vivos que pueblan un territorio determinado caracterizado por las interrelaciones que estos organismos tienen entre sí y con su entorno. Grupo integrado de especies que habitan en determinada zona; los organismos de determinada comunidad se influyen mutuamente en materia de distribución, abundancia y evolución. (Una comunidad humana es un grupo social de cualquier tamaño cuyos miembros viven en determinada localidad.) (CRQ, s. f.). ',
+    },
+    {
+      termino: 'Contaminación',
+      significado:
+        'liberación de sustancias que, de manera directa o indirecta, causan efectos adversos sobre el medio ambiente y los seres vivos. Existencia en el ambiente de contaminantes o agentes tóxicos o infecciosos que entorpecen o perjudican la vida, la salud y el bienestar del hombre, la fauna y la flora; que degradan la calidad del ambiente y, en general, el equilibrio ecológico y los bienes particulares y públicos. (CRQ, s. f.).',
+    },
+    {
+      termino: 'Población',
+      significado:
+        'grupo de individuos con un ancestro común, que tienden en mucho mayor medida a formar parejas entre sí, más que con individuos de otro grupo del mismo género (CRQ, s. f.). ',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Aguilar, J. (2010). Análisis de modos de falla, efectos y criticidad (AMFEC) para la planeación del mantenimiento empleando criterios de riesgo y confiabilidad. <i>Tecnología, Ciencia, Educación, 25</i>(1), p. 15-26.',
+      link: 'https://www.redalyc.org/pdf/482/48215094003.pdf',
+    },
+    {
+      referencia:
+        'Barros, G. (2009). El ser humano y la biodiversidad en el ecosistema: validación de una experiencia de aula. <i>Enseñanza de las ciencias. Revista de investigación y experiencias didácticas</i>.',
+      link: 'https://raco.cat/index.php/Ensenanza/article/view/294036/382567',
+    },
+    {
+      referencia:
+        'Cazzuffi, C. (2019). <i>Una nueva política para el desarrollo rural en América Latina</i>. México social.',
+      link:
+        'https://www.mexicosocial.org/una-nueva-politica-para-el-desarrollo-rural-en-america-latina/',
+    },
+    {
+      referencia:
+        'Cerda, H. (1991). <i>Los elementos de la investigación: Cómo reconocerlos, diseñarlos y construirlos</i>. Editorial El Búho.',
+    },
+    {
+      referencia:
+        'Chiavenato, I. (2004). <i>Comportamiento organizacional. La dinámica del éxito en las comunicaciones</i>. McGraw-Hill Educación.',
+      link:
+        'https://www.academia.edu/29923149/Comportamiento_Organizacional_Idalberto_Chiavenato_McGrawhill_2da_Edicion_pdf',
+    },
+    {
+      referencia:
+        'García, J. (1997). Los contenidos de la Educación Ambiental: una reflexión desde la perspectiva de la complejidad. <i>Investigación en la escuela</i>, (53), p. 31-51.',
+      link: 'https://revistascientificas.us.es/index.php/IE/article/view/7531',
+    },
+    {
+      referencia:
+        'Ley 1549 de 2012. Por medio de la cual se fortalece la institucionalización de la política nacional de educación ambiental y su incorporación efectiva en el desarrollo territorial. Julio 05 de 2012.',
+    },
+    {
+      referencia:
+        'Maldonado, T. (2013). <i>Promotoría Ambiental</i>. Centro de educación y capacitación para el desarrollo sustentable.',
+      link:
+        'http://189.208.102.74/u094/m-sitios/academicos/teresita/articulos/Promotoria_ambiental.pdf',
+    },
+    {
+      referencia: 'Máxima, J. (2020). <i>Comunidad</i>. Características.',
+      link: 'https://www.caracteristicas.co/comunidad/#ixzz6d9dpC3wQ',
+    },
+    {
+      referencia:
+        'Martínez, R. (2010). La importancia de la educación ambiental ante la problemática actual. <i>Revista Electrónica Educare, 14</i>(1), p. 97-111.',
+      link: 'https://www.redalyc.org/pdf/1941/194114419010.pdf.',
+    },
+    {
+      referencia:
+        'Ministerio del Medio Ambiente. (2020). <i>Programa Nacional de promotoría ambiental comunitaria</i>. Minambiente.',
+    },
+    {
+      referencia:
+        'Ministerio del Medio Ambiente y Ministerio de Educación Nacional. (2002). <i>Política Nacional de Educación Ambiental SINA</i>.',
+      link:
+        'https://drive.google.com/file/d/1kg0rLJhOf_1GI4fgfnT76OLT8dsb3Syy/view?usp=sharing',
+    },
+    {
+      referencia:
+        'Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura [UNESCO]. (2014). <i>Manual metodológico. Indicadores de cultura para el desarrollo</i>.',
+      link:
+        'https://es.unesco.org/creativity/sites/creativity/files/iucd_manual_metodologico_1.pdf',
+    },
+    {
+      referencia:
+        'ODESCA. (2012). <i>Guía para la promotora y el promotor comunitario ambiental</i>. Gobierno Nacional República de Panamá.',
+      link:
+        'https://www.sdgfund.org/sites/default/files/ENV_GUIA_Panam_Promotor%20Comunitario%20Ambiental.pdf',
+    },
+    {
+      referencia:
+        'Penzo, W. (2015). <i>Diseño y elaboración de actividades de aprendizaje</i>. Universitat de Barcelona.',
+      link: 'https://core.ac.uk/download/pdf/16200477.pdf.',
+    },
+    {
+      referencia:
+        'Pomachagua, J. (2010). <i>Educación para el desarrollo sostenible</i>. Universidad Nacional del Centro del Perú.',
+    },
+    {
+      referencia:
+        'Redacción PQS. (2012). <i>¿Qué debemos entender por inclusión social?</i>. PQS.',
+      link:
+        'https://www.pqs.pe/actualidad/noticias/que-debemos-entender-por-inclusion-social.',
+    },
+    {
+      referencia:
+        'Rengifo, B. (2012). <i>La educación ambiental una estrategia pedagógica Que contribuye a la solución de la problemática Ambiental en Colombia</i>. XII Coloquio Internacional de Geocrítica.',
+      link: 'http://www.ub.edu/geocrit/coloquio2012/actas/06-B-Rengifo.pdf',
+    },
+    {
+      referencia:
+        'Resolución 444 de 2013. [Ministerio de Ambiente, Vivienda y Desarrollo Territorial]. Por la cual se establecen los términos de referencia para la elaboración del Estudio Ambiental de Formulación (EAF), de los Macroproyectos de Interés Social Nacional y se adoptan otras disposiciones. Mayo 15 de 2013.',
+    },
+    {
+      referencia:
+        'Ruiz, C. (2017). <i>Diseño de proyectos de educación ambiental</i>. Junta de Andalucía.',
+    },
+    {
+      referencia:
+        'Pareja, D. (2019). <i>Lo que necesitas saber sobre planes de acción</i>. Pirani.',
+      link: 'https://www.piranirisk.com/es/blog/que-es-un-plan-de-accion',
+    },
+    {
+      referencia:
+        'Zamalloa, E. y Diaz, J. (2005). <i>Guías Metodológicas para la Gestión Ambiental</i>. Foro Ciudades para la vida.',
+      link:
+        'https://www.academia.edu/25938537/Gu%C3%ADas_Metodol%C3%B3gicas_para_la_Gesti%C3%B3n_Ambiental',
     },
   ],
   creditos: [
@@ -135,9 +428,10 @@ export default {
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable de línea de producción',
-          centro: 'Nombre centro de formación',
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Asesor metodológico y pedagógico',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura Regional Santander',
         },
       ],
     },
@@ -145,9 +439,35 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Nombre centro de formación',
+          nombre: 'Diana Carolina Triana Guarnizo',
+          cargo: 'Instructora',
+          centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
+        },
+        {
+          nombre: 'Juan Carlos Cárdenas Sánchez',
+          cargo: 'Instructor',
+          centro: 'Regional Distrito - Capital Centro de Gestión Industrial',
+        },
+        {
+          nombre: 'Gloria Esperanza Ortiz Russi',
+          cargo: 'Evaluador y diseñador instruccional',
+          centro: 'Regional Distrito - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Alix Cecilia Chinchilla Rueda',
+          cargo: 'Evaluadora Instruccional',
+          centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
+        },
+        {
+          nombre: 'Darío González',
+          cargo: 'Corrección de estilo',
+          centro: 'Regional Tolima – Centro Agropecuario La Granja',
+        },
+        {
+          nombre: 'Fabián Leonardo Correa Díaz',
+          cargo: 'Diseñador y evaluador instruccional',
+          centro:
+            'Regional Santander – Centro Industrial del Diseño y la Manufactura',
         },
       ],
     },
@@ -155,19 +475,22 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Carlos Julian Ramirez Benitez',
           cargo: 'Diseñador web',
-          centro: 'Nombre centro de formación',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura Regional Santander',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Edward Leonardo Pico Cabra',
           cargo: 'Desarrollador Fullstack',
-          centro: 'Nombre centro de formación',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura Regional Santander',
         },
         {
           nombre: 'Nombre',
           cargo: 'Animador y Producción audiovisual',
-          centro: 'Nombre centro de formación',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura Regional Santander',
         },
       ],
     },
