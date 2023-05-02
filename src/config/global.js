@@ -1,8 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
+    componenteFormativo: 'Planificación de la campaña ambiental',
     descripcionCurso:
-      'Mediante este componente, se estudian elementos de la educación ambiental, política nacional de educación ambiental, estrategias de acción en promotorías ambientales y fortalecimiento comunitario y social, en el marco del desarrollo medioambiental. Se insta, además, a la adopción de una mirada efectiva de inclusión, equidad y promoción de los individuos y colectivos, como protagonistas de estos procesos. ',
+      'Mediante este componente, se estudian elementos de la educación ambiental, política nacional de educación ambiental, estrategias de acción en promotorías ambientales y fortalecimiento comunitario y social, en el marco del desarrollo medioambiental. Se insta, además, a la adopción de una mirada efectiva de inclusión, equidad y promoción de los individuos y colectivos, como protagonistas de estos procesos.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
