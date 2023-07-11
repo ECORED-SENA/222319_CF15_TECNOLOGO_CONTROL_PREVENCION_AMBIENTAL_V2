@@ -371,7 +371,7 @@
               figure
                 img.img-a.img-t(src='@/assets/curso/temas/86.svg', alt='Infografia')
 
-            .tarjeta.color-acento-botones.p-3(x="42.7%" y="23%" numero="+")
+            .tarjeta.color-acento-botones.p-3(x="42.7%" y="27.5%" numero="+")
               .h5.mb-2 Acciones específicas 
               ul.lista-ul
                 li 
@@ -403,7 +403,7 @@
                   | Técnicas de dinámica de grupos y juegos.
   
 
-            .tarjeta.color-acento-botones.p-3(x="41%" y="81.5%" numero="+")
+            .tarjeta.color-acento-botones.p-3(x="41%" y="76.2%" numero="+")
               .h5.mb-2 Pertinencia de las acciones 
               p.mb-0 Todas las herramientas que se han citado no son exclusivas de la educación ambiental, ya que provienen de otras muchas disciplinas dedicadas al estudio de procesos de comunicación, enseñanza, aprendizaje. La EA tan sólo toma las más apropiadas y pertinentes para cada momento y situación.
    
@@ -455,16 +455,16 @@
         figure
           img.img-a.img-t(src='@/assets/curso/temas/88.svg', alt='Infografia')
 
-      .tarjeta.color-acento-botones.p-3(x="18.5%" y="18.7%" numero="1")
+      .tarjeta.color-acento-botones.p-3(x="19.5%" y="18.7%" numero="1")
         p.mb-0 #[b Recursos humanos:] Se trata del equipo técnico. Este variará en función de las necesidades del programa, y hay que tener en cuenta todos los aspectos: coordinador-a, monitores-as, personal sanitario, cocineros-as, conductores-as, etc. 
 
-      .tarjeta.color-acento-botones.p-3(x="47%" y="59.5%" numero="2")
+      .tarjeta.color-acento-botones.p-3(x="40%" y="64.5%" numero="2")
         p.mb-0 #[b Recursos materiales:] Infraestructuras: aulas, alojamiento, etc.  
 
-      .tarjeta.color-acento-botones.p-3(x="75.5%" y="63.5%" numero="3")
+      .tarjeta.color-acento-botones.p-3(x="75.8%" y="63.5%" numero="3")
         p.mb-0 #[b Material inventariable:] Hace referencia a todo lo que se necesita para el desarrollo del proyecto y que no es perecedero, al menos a corto plazo. Ejemplos: sillas, mesas, ordenadores, prismáticos, etc.   
 
-      .tarjeta.color-acento-botones.p-3(x="66.3%" y="39.5%" numero="4")
+      .tarjeta.color-acento-botones.p-3(x="67.3%" y="37.5%" numero="4")
         p.mb-0 #[b Material fungible:] Se refiere a todo el material que se va a consumir durante el proyecto. Conviene que esté bien calculado; un proyecto no es mejor porque use más material, lo que importa es que el uso del material sea optimizado. La coherencia es un aspecto fundamental cuando se está desarrollando un programa de EA.  
 
     .row.justify-content-start.mb-4       
@@ -824,7 +824,7 @@
               span 8
             | Repita el ejercicio regularmente.
 
-      .col-lg-5.p-0.d-none.d-lg-blocks
+      .col-lg-5.p-0.d-none.d-lg-block
         img.img-a.img-t(src='@/assets/curso/temas/112.png')
 
     Separador 
@@ -843,7 +843,7 @@
             figure
               img.img-a.img-t(src='@/assets/curso/temas/113.svg', alt='Infografia')
 
-          .tarjeta.color-acento-botones.p-3(x="6.5%" y="58.3%" numero="1")
+          .tarjeta.color-acento-botones.p-3(x="11%" y="58.3%" numero="1")
             .row.justify-content-center.align-items-start           
               .col-auto
                 img.img-a.img-t(src='@/assets/curso/temas/114.svg')
@@ -862,7 +862,7 @@
                     i.fas.fa-check
                     | Fomentar cambios de hábitos y actitudes por parte de la población.
   
-          .tarjeta.color-acento-botones.p-3(x="38.7%" y="58.3%" numero="2")
+          .tarjeta.color-acento-botones.p-3(x="38.9%" y="58.3%" numero="2")
             .row.justify-content-center.align-items-start           
               .col-auto
                 img.img-a.img-t(src='@/assets/curso/temas/114.svg')
