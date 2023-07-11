@@ -12,18 +12,18 @@
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10
         .row.justify-content-between.mx-0.bg13.mb-3(data-aos="flip-down")
-          .col-auto.p-0
-            img(data-aos="zoom-in")(src='@/assets/curso/temas/24.svg', alt='')
+          .col-lg-auto.p-0
+            img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/24.svg', alt='')
           .col
             .p-3.my-4.me-2
               .row.justify-content-center.align-items-center          
-                .col            
+                .col.my-3            
                   h5(data-aos="fade-down") ¡Atención! 
                   p(data-aos="fade-down").mb-0 Para conocer a profundidad este tema y sus especificidades, se le invita a explorar el anexo Técnicas LNC: tipos, recursos y materiales. El estudio de este apartado es de suma importancia para la asimilación de los elementos vistos con anterioridad y los que vienen a continuación en este componente formativo.  
-                .col-auto
+                .col-lg-auto.my-3
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=10_0nVuXZqo" target="_blank" type="application/pdf")
-                    span Ver recurso
-                    i.fas.fa-external-link-alt      
+                    span Ver video
+                    i.fab.fa-youtube      
 
 </template>
 

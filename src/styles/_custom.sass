@@ -170,13 +170,13 @@ figcaption
         transform: translateX(-50%)            
 
 .slyder-a__bullets__item--active
-  background-color: #BADC61 !important
-  border: 1px solid #BADC61
+  background-color: #2d7610 !important
+  border: 1px solid #2d7610
 .slyder-a__btn--sigt, .slyder-a__btn--atrs
   background-color: #FEB12E
 .slyder-a__bullets__item
-  background-color: #CFEABA
-  border: 1px solid #CFEABA        
+  background-color: #858585
+  border: 1px solid #858585        
 
 .bg12
   background-color: #DFE6CD   
@@ -339,13 +339,34 @@ figcaption
     background-position: center
 
 .tabs-c__tab--active
-  font-weight: bold !important    
-
-.tabs-c__content-item
+  font-weight: bold !important 
+  background-color: #F3F9FF !important
+.tabs-c__tab     
   background-color: white 
+.tabs-c__tab:hover     
+  background-color: #F3F9FF !important   
+.tabs-c__content-item
+  background-color: #F3F9FF 
   
 .tabs-c__header
   margin-bottom: 0px !important  
 
 .tabs-c__tab::after, .tabs-c__tab::before
   z-index: 3  
+
+.ul-mov  
+  @media (max-width: 810px)
+    padding: 0 !important
+
+.bg-mov    
+  @media (max-width: 810px)
+    padding: 1rem !important  
+
+.fa-ul
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 7px
+      font-size: 1.4rem    

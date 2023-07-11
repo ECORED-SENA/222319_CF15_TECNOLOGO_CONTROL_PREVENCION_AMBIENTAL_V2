@@ -25,24 +25,24 @@
         .p-4
           h4 Desde otras miradas
           p.mb-4 Sin embargo, la comunidad también depende del sector que aplique un área específica, por ejemplo:
-          ol.lista-ol--cuadro(data-aos="fade-left")
+          ol.lista-ol--cuadro.fa-ul(data-aos="fade-left")
             li 
               .lista-ol--cuadro__vineta
                 span 1
-              | #[b Ecología.] Una comunidad es un conjunto de seres vivientes vinculados entre sí en un área determinada, a través de cadenas tróficas o alimentarias.
+              p.mb-0 #[b Ecología.] Una comunidad es un conjunto de seres vivientes vinculados entre sí en un área determinada, a través de cadenas tróficas o alimentarias.
 
             li.my-4 
               .lista-ol--cuadro__vineta
                 span 2
-              | #[b Política.] Es un conjunto humano organizado, como los países, en torno a la realización de un objetivo común.
+              p.mb-0 #[b Política.] Es un conjunto humano organizado, como los países, en torno a la realización de un objetivo común.
 
             li 
               .lista-ol--cuadro__vineta
                 span 3
-              | #[b Administración.] Es un sinónimo de empresa o compañía.
+              p.mb-0 #[b Administración.] Es un sinónimo de empresa o compañía.
           p Todos estos conceptos tienen, no obstante, el denominador común de la conjunción de individuos en una unidad mayor organizada, en la que sus partes tienen siempre relación mutua.
         
-      .col-lg-6.p-0
+      .col-lg-6.col-md-8.p-0
         img.img-mov(data-aos="zoom-in")(src='@/assets/curso/temas/26.png') 
 
     .row.justify-content-start.mb-4        
@@ -119,7 +119,7 @@
     #t_3_4.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 3.4 Igualdad de género
 
-    .row.justify-content-center.align-items-end.mb-5           
+    .row.justify-content-center.align-items-center.mb-5           
       .col-lg-6.my-3
         p(data-aos="fade-down") Teniendo en cuenta lo establecido, las relaciones entre las mujeres y los hombres desempeñan un papel importante, tanto en la plasmación como en la evolución y transformación de los valores, las normas y las prácticas culturales de una sociedad, los cuales, a su vez, determinan dichas relaciones. De hecho, son relaciones que evolucionan con el tiempo y en las que influye una matriz de factores socioeconómicos, políticos y culturales. 
         .bg15.p-4
@@ -207,21 +207,21 @@
 
               .tarjeta.bg17.h-100
                 .p-4.pt-5
-                  h5.mb-0.text-white  a) Formación profesional.   
+                  h5.mb-0.text-white Formación profesional.   
           .col-lg-4.my-3
             .tarjeta.tarjeta-avatar.h-100.inblok
               img.img-a.img-t(src='@/assets/curso/temas/43.svg' alt='AvatarTop')
 
               .tarjeta.bg17.h-100
                 .p-4.pt-5
-                  h5.mb-0.text-white  b) Perfeccionamiento.
+                  h5.mb-0.text-white Perfeccionamiento.
           .col-lg-4.my-3
             .tarjeta.tarjeta-avatar.h-100.inblok
               img.img-a.img-t(src='@/assets/curso/temas/44.svg' alt='AvatarTop')
 
               .tarjeta.bg17.h-100
                 .p-4.pt-5
-                  h5.mb-0.text-white  c) Capacitación. 
+                  h5.mb-0.text-white Capacitación. 
 
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg11")
           .row.justify-content-center.align-items-center(titulo="Niveles de preparación")

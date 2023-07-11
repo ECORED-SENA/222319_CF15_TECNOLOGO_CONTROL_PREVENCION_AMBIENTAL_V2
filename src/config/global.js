@@ -220,6 +220,11 @@ export default {
         nombreRuta: 'referencias',
       },
       {
+        icono: 'fas fa-file-pdf',
+        titulo: 'Descargar PDF',
+        download: 'downloads/prueba.pdf',
+      },
+      {
         icono: 'fas fa-download',
         titulo: 'Descargar material',
         download: 'downloads/material.zip',
@@ -235,7 +240,7 @@ export default {
     {
       tema: '1. Conceptos generales',
       referencia:
-        'CENEAM OAPN. (2019). <i>La Educación Ambiental explicada en cinco minutos (2019)<i> [Video]. YouTube.',
+        'CENEAM OAPN. (2019). <i>La Educación Ambiental explicada en cinco minutos (2019)<i> ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=hYOy6grpqoY',
     },
@@ -243,7 +248,7 @@ export default {
       tema:
         '2. Normatividad asociada a la promotoría y política de educación ambiental',
       referencia:
-        'Correa, E. (2020). <i>Introducción a la Normatividad ambiental en Colombia</i> [Video]. YouTube.',
+        'Correa, E. (2020). <i>Introducción a la Normatividad ambiental en Colombia</i> ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=C8WJtf3JspU',
     },
@@ -253,27 +258,26 @@ export default {
       referencia:
         'Ministerio del Medio Ambiente y Ministerio de Educación Nacional. (2002). <i>Política Nacional de Educación Ambiental SINA</i>.',
       tipo: 'Manual',
-      link:
-        'https://drive.google.com/file/d/1kg0rLJhOf_1GI4fgfnT76OLT8dsb3Syy/view?usp=sharing',
+      descarga: '/downloads/politica_educacion_amb.pdf',
     },
     {
       tema: '4. Técnicas LNC: tipos, recursos y materiales',
       referencia:
-        'Compartir Palabra Maestra. (2015). <i>¿Qué es un recurso didáctico?</i> [Video]. YouTube.',
+        'Compartir Palabra Maestra. (2015). <i>¿Qué es un recurso didáctico?</i> ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=10_0nVuXZqo',
     },
     {
       tema: '5. Promotoría ambiental',
       referencia:
-        'Jardín Botánico de Bogotá. (2014). <i>Formación en Promotoría Ambiental</i>  [Video]. YouTube.',
+        'Jardín Botánico de Bogotá. (2014). <i>Formación en Promotoría Ambiental</i>  ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=0w7JELc6ccg',
     },
     {
       tema: '5. Promotoría ambiental',
       referencia:
-        'Brigadas Verdes. (2013). <i>Tutorial 3 "El Rol del promotor ambiental"</i> [Video]. YouTube.',
+        'Brigadas Verdes. (2013). <i>Tutorial 3 "El Rol del promotor ambiental"</i> ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=Sm_ISgLI0l4',
     },
@@ -424,14 +428,14 @@ export default {
       autores: [
         {
           nombre: 'Claudia Patricia Aristizabal',
-          cargo: 'Líder del equipo',
+          cargo: 'Responsable del Ecosistema',
           centro: 'Dirección General',
         },
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Asesor metodológico y pedagógico',
+          cargo: 'Responsable de Línea de Producción',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional Santander',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
       ],
     },
@@ -476,7 +480,7 @@ export default {
       autores: [
         {
           nombre: 'Carlos Julian Ramirez Benitez',
-          cargo: 'Diseñador web',
+          cargo: 'Diseñador de Contenidos Digitales',
           centro:
             'Centro Industrial del Diseño y la Manufactura Regional Santander',
         },
@@ -498,14 +502,22 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre validador',
-          cargo: 'Validación y vinculación en plataforma LMS',
-          centro: 'Nombre centro formación',
+          nombre: 'Zuleidy María Ruiz Torres',
+          cargo: 'Validador de Recursos Educativos Digitales',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
-          nombre: 'Nombre validador',
-          cargo: 'Validación de contenidos accesibles',
-          centro: 'Nombre centro formación',
+          nombre: 'Luis Gabriel Urueta Alvarez',
+          cargo: 'Validador de Recursos Educativos Digitales',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis Gómez',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
       ],
     },

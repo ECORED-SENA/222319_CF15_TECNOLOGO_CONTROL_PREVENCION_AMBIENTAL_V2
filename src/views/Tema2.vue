@@ -13,7 +13,7 @@
       .col-lg-10
         SlyderA(tipo="b")
           .row.justify-content-center        
-            .col-lg-11.brad.bg4.h-100.p-4
+            .col-lg-11.brad.bg4.h-100.p-4.mb-4
               .row.justify-content-center.align-items-center          
                 .col-auto
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/18.svg')
@@ -21,7 +21,7 @@
                   h4 Decreto 2811 de 1974
                   p.mb-0 Se dicta el código nacional de recursos naturales renovables y de protección al medio ambiente. Estipula en su título II, de la parte III, las disposiciones relacionadas con la Educación Ambiental en el sector formal. 
 
-          .row.justify-content-center        
+      
             .col-lg-11.brad.bg4.h-100.p-4
               .row.justify-content-center.align-items-center          
                 .col-auto
@@ -31,7 +31,7 @@
                   p.mb-0 Por el cual se reglamenta la implementación de la Educación ecológica y la preservación ambiental en el sector educativo en Colombia.
 
           .row.justify-content-center        
-            .col-lg-11.brad.bg4.h-100.p-4
+            .col-lg-11.brad.bg4.h-100.p-4.mb-4
               .row.justify-content-center.align-items-center          
                 .col-auto
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/18.svg')
@@ -39,7 +39,6 @@
                   h4 Constitución de 1991 
                   p.mb-0 Establece el derecho a gozar de un ambiente sano y el deber de proteger la diversidad e integridad del ambiente (artículo 79), buscando formar al ciudadano para la protección del ambiente (artículo 67). 
 
-          .row.justify-content-center        
             .col-lg-11.brad.bg4.h-100.p-4
               .row.justify-content-center.align-items-center          
                 .col-auto
@@ -49,7 +48,7 @@
                   p.mb-0  “Una Política Ambiental para Colombia” – DNP. Se ubica como una de las estrategias fundamentales para reducir las tendencias de deterioro ambiental y para el desarrollo de una nueva concepción en la relación sociedad - naturaleza. En su capítulo 2, literal C, se refiere a la gestión ambiental en áreas estratégicas y reconoce la educación ambiental en todos sus niveles, formal y no formal, así como un plan nacional de Educación Ambiental, estableciendo los objetivos de dicha política 
 
           .row.justify-content-center        
-            .col-lg-11.brad.bg4.h-100.p-4
+            .col-lg-11.brad.bg4.h-100.p-4.mb-4
               .row.justify-content-center.align-items-center          
                 .col-auto
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/18.svg')
@@ -57,7 +56,6 @@
                   h4 Ley 99 de 1993
                   p.mb-0 Por el cual se crea el Ministerio de Medio Ambiente y se organiza el Sistema Nacional Ambiental SINA. 
 
-          .row.justify-content-center        
             .col-lg-11.brad.bg4.h-100.p-4
               .row.justify-content-center.align-items-center          
                 .col-auto
@@ -67,7 +65,7 @@
                   p.mb-0 En su artículo 23, establece la educación ambiental como un área obligatoria y fundamental, necesaria para ofrecer en el currículo como parte del Proyecto Educativo Institucional, así como uno de los fines de la educación tendiente a la adquisición de una cultura ecológica basada en la adquisición de una conciencia para la conservación, protección y mejoramiento del medio ambiente, de la calidad de vida y del uso racional de los recursos naturales, entre otros. 
 
           .row.justify-content-center        
-            .col-lg-11.brad.bg4.h-100.p-4
+            .col-lg-11.brad.bg4.h-100.p-4.mb-4
               .row.justify-content-center.align-items-center          
                 .col-auto
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/18.svg')
@@ -75,7 +73,6 @@
                   h4 Decreto 1860 de 1994 
                   p.mb-0 Por el cual se reglamenta la Ley 115, incluyendo el PEI y los PRAES como eje transversal de la Educación Formal. 
 
-          .row.justify-content-center        
             .col-lg-11.brad.bg4.h-100.p-4
               .row.justify-content-center.align-items-center          
                 .col-auto
@@ -85,7 +82,7 @@
                   p.mb-0 Institucionaliza el PEI en la Educación Formal en todos los niveles. 
 
           .row.justify-content-center        
-            .col-lg-11.brad.bg4.h-100.p-4
+            .col-lg-11.brad.bg4.h-100.p-4.mb-4
               .row.justify-content-center.align-items-center          
                 .col-auto
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/18.svg')
@@ -93,7 +90,6 @@
                   h4 Plan de Desarrollo Ambiental de 1997 
                   p.mb-0 Denominado “El salto social hacia el desarrollo humano sostenible”. 
 
-          .row.justify-content-center        
             .col-lg-11.brad.bg4.h-100.p-4
               .row.justify-content-center.align-items-center          
                 .col-auto
@@ -103,7 +99,7 @@
                   p.mb-0 Reglamenta la investigación científica sobre diversidad biológica. 
 
           .row.justify-content-center        
-            .col-lg-11.brad.bg4.h-100.p-4
+            .col-lg-11.brad.bg4.h-100.p-4.mb-4
               .row.justify-content-center.align-items-center          
                 .col-auto
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/18.svg')
@@ -111,7 +107,6 @@
                   h4 Política Nacional de Investigación Ambiental, 2001 
                   p.mb-0 Busca fortalecer la capacidad nacional y regional que impulse la generación y utilización oportuna de conocimientos relevantes para el desarrollo sostenible.
 
-          .row.justify-content-center        
             .col-lg-11.brad.bg4.h-100.p-4
               .row.justify-content-center.align-items-center          
                 .col-auto
@@ -121,7 +116,7 @@
                   p.mb-0 Documento MEN - MMA. Orienta los esfuerzos de las diferentes organizaciones y entidades, estableciendo los principios, estrategias y retos de la Educación Ambiental.
 
           .row.justify-content-center        
-            .col-lg-11.brad.bg4.h-100.p-4
+            .col-lg-11.brad.bg4.h-100.p-4.mb-4
               .row.justify-content-center.align-items-center          
                 .col-auto
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/18.svg')
@@ -129,7 +124,6 @@
                   h4 Ley 1549 del 2012 
                   p.mb-0 Se fortalece la institucionalización de la política nacional de educación ambiental y su incorporación efectiva en el desarrollo territorial. 
 
-          .row.justify-content-center        
             .col-lg-11.brad.bg4.h-100.p-4
               .row.justify-content-center.align-items-center          
                 .col-auto
@@ -139,7 +133,7 @@
                   p.mb-0 Se expide el Decreto Único Reglamentario del sector educativo. 
 
           .row.justify-content-center        
-            .col-lg-11.brad.bg4.h-100.p-4
+            .col-lg-11.brad.bg4.h-100.p-4.mb-4
               .row.justify-content-center.align-items-center          
                 .col-auto
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/18.svg')
@@ -147,7 +141,6 @@
                   h4 Acuerdo 407 de julio 8 de 2015
                   p.mb-0 Se establece un acuerdo marco entre el MEN y MADS. Alianza Nacional por “La formación de una ciudadanía responsable: un país más educado y una cultura ambiental sostenible para Colombia”. 
 
-          .row.justify-content-center        
             .col-lg-11.brad.bg4.h-100.p-4
               .row.justify-content-center.align-items-center          
                 .col-auto
@@ -251,7 +244,7 @@
                   h5(data-aos="fade-down") ¡Atención! 
                   p(data-aos="fade-down").mb-0 Para conocer e identificar los componentes de la Política Nacional de Educación Ambiental (PNEA) le invitamos a conocerla ingresando al siguiente enlace:   
                 .col-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/politica_educacion_amb.pdf')" target="_blank" type="application/pdf")
                     span Ver recurso
                     i.fas.fa-external-link-alt      
 

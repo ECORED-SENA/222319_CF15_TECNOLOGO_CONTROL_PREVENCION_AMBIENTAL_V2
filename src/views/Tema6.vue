@@ -20,7 +20,7 @@
     #t_6_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 6.1 Planificación de la promotoría 
 
-    .row.justify-content-center.align-items-end.mb-5           
+    .row.justify-content-center.align-items-center.mb-5           
       .col-lg-6.my-3
         p(data-aos="fade-down") Teniendo en cuenta lo que plantea la formación de promotores y promotoras comunitarios en la cuenca del río Tabasará sobre el concepto de la educación ambiental y el rol que ejecuta el promotor en la comunidad, es importante establecer la planificación del proceso educativo. Así lo contempla la guía para la promotoría y promotor comunitario ambiental, donde: 
         .bg5.p-5
@@ -127,7 +127,7 @@
     h5(data-aos="fade-down").mb-5 Debe contener: 
 
     .row.justify-content-start.align-items-center.mb-5           
-      .col-lg-6
+      .col-lg-6.col-md-12
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg11")
           .row.justify-content-center.align-items-center(titulo="Identificación del problema ambiental")
             .col-auto  
@@ -159,12 +159,12 @@
               img.img-a.img-t(src="@/assets/curso/temas/69.svg")
             .col-9
               p.mb-0 La identificación de las soluciones técnicas. Lo más interesante es que el grupo de participantes se involucre en   la elaboración de las soluciones, pero evidentemente el educador debe conocerlas, al menos en su mayoría. Todas las soluciones deben ser viables.                                           
-      .col-lg-5
+      .col-lg-5.d-none.d-lg-block
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/70.png')           
 
     .row.justify-content-start.mb-4       
       .col-auto.bg6.p-3(data-aos="flip-down")
-        h5.mb-0(data-aos="fade-down") Justificación. 
+        h5.mb-0(data-aos="fade-down") Justificación 
 
     p(data-aos="fade-down") Se trata de establecer por qué se ha de desarrollar este programa, en qué datos se está basando la estrategia para pensar que se debe iniciar una acción y qué ventajas supondría sobre la situación actual (Herrera, 1998).
     h5(data-aos="fade-down").mb-5 La justificación deberá contener datos sintéticos acerca de: 
@@ -201,7 +201,7 @@
 
     .row.justify-content-start.mb-4       
       .col-auto.bg6.p-3(data-aos="flip-down")
-        h5.mb-0(data-aos="fade-down") Objetivos. 
+        h5.mb-0(data-aos="fade-down") Objetivos 
 
     p(data-aos="fade-down") Los objetivos deben entenderse como guías que orientan el proceso de enseñanza y aprendizaje y hacia los cuales hay que orientar la marcha de este proceso (García et al., 1997).  "[b Para ahondar en los objetivos del plan de promotoría ambiental, se le invita a explorar el siguiente recurso. ¡Adelante!]
 
@@ -256,7 +256,7 @@
                   i.fas.fa-check
                   | A qué grupo social pertenecen (entendiendo como grupo social a la actividad común que realizan o una característica que les une a la hora de participar en una actividad de EA, como, por ejemplo, escolares, cazadores, tercera edad, disminuidos/as físicos/as o psíquicos, etc.).
 
-    .row.justify-content-start.mb-4       
+    .row.justify-content-start.mb-4.pt-5       
       .col-auto.bg6.p-3(data-aos="flip-down")
         h5.mb-0(data-aos="fade-down") Contenidos
 
@@ -433,7 +433,7 @@
                   
     .row.justify-content-start.mb-4       
       .col-auto.bg6.p-3(data-aos="flip-down")
-        h5.mb-0(data-aos="fade-down") Temporización.
+        h5.mb-0(data-aos="fade-down") Temporización
 
     p(data-aos="fade-down").mb-5 Se trata de establecer el tiempo que se va a emplear en el desarrollo de cada programa o actividad y la fecha o época en la que se llevará a cabo. Es muy importante estimar la duración y las fechas en las que se realizarán las actividades propuestas. 
 
@@ -446,7 +446,7 @@
 
     .row.justify-content-start.mb-4       
       .col-auto.bg6.p-3(data-aos="flip-down")
-        h5.mb-0(data-aos="fade-down") Recursos.
+        h5.mb-0(data-aos="fade-down") Recursos
 
     p(data-aos="fade-down").mb-5 Una vez decidido todo lo anterior, hay que concretar qué recursos se necesitarán. Es un momento importante, ya que una mala previsión puede provocar que el proyecto fracase. Se deberán tener en cuenta:  
 
@@ -469,7 +469,7 @@
 
     .row.justify-content-start.mb-4       
       .col-auto.bg6.p-3(data-aos="flip-down")
-        h5.mb-0(data-aos="fade-down") Evaluación.
+        h5.mb-0(data-aos="fade-down") Evaluación
 
     p(data-aos="fade-down").mb-5 Se entiende por evaluación toda aquella acción sistemática y continuada encaminada a recoger información acerca del éxito de un programa, la satisfacción de los y las visitantes al hacer una ruta, la adecuación de los recursos a los tiempos, así como la valoración del papel desempeñado por el/la monitor/a lo largo de la actividad (Gutiérrez, 2000). 
 
@@ -502,7 +502,7 @@
 
     .row.justify-content-start.mb-4       
       .col-auto.bg6.p-3(data-aos="flip-down")
-        h5.mb-0(data-aos="fade-down") Difusión.
+        h5.mb-0(data-aos="fade-down") Difusión
 
     .row.justify-content-center.mb-5           
       .col-lg-6.my-3
@@ -528,7 +528,7 @@
 
     .row.justify-content-start.mb-4       
       .col-auto.bg6.p-3(data-aos="flip-down")
-        h5.mb-0(data-aos="fade-down") Presupuesto.                     
+        h5.mb-0(data-aos="fade-down") Presupuesto                     
 
     .row.justify-content-center.align-items-end.mb-5           
       .col-lg-6.my-3
@@ -579,7 +579,7 @@
 
     .row.justify-content-start.mb-4       
       .col-auto.bg6.p-3(data-aos="flip-down")
-        h5.mb-0(data-aos="fade-down") Observación.
+        h5.mb-0(data-aos="fade-down") Observación
 
     .row.justify-content-center.align-items-end.mb-5
       .col-lg-6.my-3
@@ -591,7 +591,7 @@
 
     .row.justify-content-start.mb-4       
       .col-auto.bg6.p-3(data-aos="flip-down")
-        h5.mb-0(data-aos="fade-down") Entrevista.
+        h5.mb-0(data-aos="fade-down") Entrevista
 
     p(data-aos="fade-down").mb-5 Es la más utilizada en investigaciones cualitativas. Se puede encontrar bajo la denominación de interrogatorio o de cuestionarios (siendo este último la misma modalidad, pero escrita), se basa en la realización de preguntas orientadas hacia la búsqueda de información de un objetivo específico.
     
@@ -629,7 +629,7 @@
 
     .row.justify-content-start.mb-4       
       .col-auto.bg6.p-3(data-aos="flip-down")
-        h5.mb-0(data-aos="fade-down") Encuesta.
+        h5.mb-0(data-aos="fade-down") Encuesta
 
     p(data-aos="fade-down").mb-5 En la actualidad, este es uno de los más usados por empresas de diferentes índoles o por entidades públicas. Se define, de acuerdo con Cerda (1991), como la recolección sistemática de datos en una población o en una muestra de la población, mediante el uso de entrevistas personales y otros instrumentos para obtener datos. Habitualmente, a este tipo de estudio se le denomina así cuando se ocupa de grupos de personas numerosos y dispersos (p. 277).  
 
@@ -656,15 +656,15 @@
               img.img-a.img-t(src="@/assets/curso/temas/103.svg")
             .col-9
               p.mb-0 Tradicionalmente, se habla de la "opinión pública" como la manera de pensar o la estimación de asuntos de interés común en la que coincide la mayoría de la población; sin embargo, su grado de veracidad y de error no reflejan confianza en este tipo de sondeos.                          
-      .col-lg-5
+      .col-lg-5.d-none.d-lg-block
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/102.png')  
 
     .row.justify-content-start.mb-4       
       .col-auto.bg6.p-3(data-aos="flip-down")
-        h5.mb-0(data-aos="fade-down") Etapas y desarrollo de encuestas.
+        h5.mb-0(data-aos="fade-down") Etapas y desarrollo de encuestas
 
-    p(data-aos="fade-down").mb-5 No existe una metodología estándar para la aplicación de las encuestas, por el contrario, cada entidad o las diferentes investigaciones sugieren su propio procedimiento para realizar la recolección de información de acuerdo con sus necesidades.      
-    
+    p(data-aos="fade-down") No existe una metodología estándar para la aplicación de las encuestas, por el contrario, cada entidad o las diferentes investigaciones sugieren su propio procedimiento para realizar la recolección de información de acuerdo con sus necesidades.      
+    p(data-aos="fade-down") Sin embargo, es relevante tomar en consideración las siguientes acciones secuenciales y elementos para la elaboración de un proceso de recolección de información, de acuerdo con Cerda (1991):
     .row.justify-content-center.align-items-end.mb-5           
       .col-lg-6.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/104.png')
@@ -716,52 +716,52 @@
       h2 6.4 Las metas
     p(data-aos="fade-down").mb-5 Las metas se constituyen en puntos de referencia para lograr un objetivo; en la mayoría de las ocasiones, este es holístico, transversal e impacta en la comunidad.
 
-    .bg28
-      TabsC.color-acento-contenido
-        .py-3.py-md-4(titulo="Carta de navegación")
-          .row.justify-content-center.align-items-center
-            .col-lg-5.my-3
-              img.img-a.img-t(src='@/assets/curso/temas/107.png')
-            .col-lg-5.my-3
-              h5 Carta de navegación
-              p Establecer metas dentro del proceso de planificación del programa de promotoría es la carta de navegación que le da norte a la ejecución de cada proyecto.    
-        .py-3.py-md-4(titulo="Destino final")
-          .row.justify-content-center.align-items-center
-            .col-lg-5.my-3
-              img.img-a.img-t(src='@/assets/curso/temas/106.png')
-            .col-lg-5.my-3
-              h5 Destino final
-              p “La meta es el destino final del éxito. Dan dirección y claridad a nuestras vidas. Ellas ayudan a decidir qué es importante y qué es una distracción”. (ODESCA, 2012, p. 13) 
-        .py-3.py-md-4(titulo="Liderazgos efectivos")
-          .row.justify-content-center.align-items-center
-            .col-lg-5.my-3
-              img.img-a.img-t(src='@/assets/curso/temas/108.png')
-            .col-lg-5.my-3
-              h5 Liderazgos efectivos
-              p “El proceso para que las personas se conviertan en líderes efectivos requiere que se fijen metas, se anoten, y se prosiga con ellas con entusiasmo, pasión, compromiso y persistencia”. (ODESCA, 2012, p. 13).   
-        .py-3.py-md-4(titulo="Ideal de las metas")
-          .row.justify-content-center.align-items-center
-            .col-lg-5.my-3
-              img.img-a.img-t(src='@/assets/curso/temas/109.png')
-            .col-lg-5.my-3
-              h5 Ideal de las metas
-              p Para identificar una meta que permita que el proceso de promotoría se lleve a buen término, se debe tener en cuenta que estas deben estar bien definidas; por ende, las metas deben ser:
-              ul.lista-ul
-                li 
-                  i.fas.fa-check
-                  | Específica: Clara y precisa. 
-                li 
-                  i.fas.fa-check
-                  | Medible: Que tenga criterios por los cuales se pueda medir el éxito. 
-                li 
-                  i.fas.fa-check
-                  | Alcanzable: Enfocada en las cosas dentro de nuestro control. 
-                li 
-                  i.fas.fa-check
-                  | Relevante: Que contribuya a la realización de nuestros valores. 
-                li 
-                  i.fas.fa-check
-                  | Tiempo: Que tenga un calendario y una fecha límite. (ODESCA, 2012, p. 13)
+
+    TabsC.color-acento-contenido
+      .py-3.py-md-4(titulo="Carta de navegación")
+        .row.justify-content-center.align-items-center
+          .col-lg-5.my-3
+            img.img-a.img-t(src='@/assets/curso/temas/107.png')
+          .col-lg-5.my-3
+            h5 Carta de navegación
+            p Establecer metas dentro del proceso de planificación del programa de promotoría es la carta de navegación que le da norte a la ejecución de cada proyecto.    
+      .py-3.py-md-4(titulo="Destino final")
+        .row.justify-content-center.align-items-center
+          .col-lg-5.my-3
+            img.img-a.img-t(src='@/assets/curso/temas/106.png')
+          .col-lg-5.my-3
+            h5 Destino final
+            p “La meta es el destino final del éxito. Dan dirección y claridad a nuestras vidas. Ellas ayudan a decidir qué es importante y qué es una distracción”. (ODESCA, 2012, p. 13) 
+      .py-3.py-md-4(titulo="Liderazgos efectivos")
+        .row.justify-content-center.align-items-center
+          .col-lg-5.my-3
+            img.img-a.img-t(src='@/assets/curso/temas/108.png')
+          .col-lg-5.my-3
+            h5 Liderazgos efectivos
+            p “El proceso para que las personas se conviertan en líderes efectivos requiere que se fijen metas, se anoten, y se prosiga con ellas con entusiasmo, pasión, compromiso y persistencia”. (ODESCA, 2012, p. 13).   
+      .py-3.py-md-4(titulo="Ideal de las metas")
+        .row.justify-content-center.align-items-center
+          .col-lg-5.my-3
+            img.img-a.img-t(src='@/assets/curso/temas/109.png')
+          .col-lg-5.my-3
+            h5 Ideal de las metas
+            p Para identificar una meta que permita que el proceso de promotoría se lleve a buen término, se debe tener en cuenta que estas deben estar bien definidas; por ende, las metas deben ser:
+            ul.lista-ul
+              li 
+                i.fas.fa-check
+                | Específica: Clara y precisa. 
+              li 
+                i.fas.fa-check
+                | Medible: Que tenga criterios por los cuales se pueda medir el éxito. 
+              li 
+                i.fas.fa-check
+                | Alcanzable: Enfocada en las cosas dentro de nuestro control. 
+              li 
+                i.fas.fa-check
+                | Relevante: Que contribuya a la realización de nuestros valores. 
+              li 
+                i.fas.fa-check
+                | Tiempo: Que tenga un calendario y una fecha límite. (ODESCA, 2012, p. 13)
                      
     Separador 
     #t_6_5.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -790,7 +790,7 @@
     .row.justify-content-center.align-items-end.mb-5.bg4.p-5.pb-0           
       .col-lg-7
         h5 Algunos puntos prácticos para el seguimiento y evaluación se relacionan teniendo en cuenta cada proyecto.
-        ol.lista-ol--cuadro.pb-5(data-aos="fade-left")
+        ol.lista-ol--cuadro.fa-ul.pb-5(data-aos="fade-left")
           li 
             .lista-ol--cuadro__vineta
               span 1
@@ -824,7 +824,7 @@
               span 8
             | Repita el ejercicio regularmente.
 
-      .col-lg-5.p-0
+      .col-lg-5.p-0.d-none.d-lg-blocks
         img.img-a.img-t(src='@/assets/curso/temas/112.png')
 
     Separador 

@@ -22,7 +22,7 @@
     .row.justify-content-center.align-items-start.bg3.ms-1.pb-0 
       .col-lg-7(data-aos="fade-down")
         .p-5.pe-0
-          ol.lista-ol--cuadro(data-aos="fade-left")
+          ol.lista-ol--cuadro.fa-ul(data-aos="fade-left")
             li 
               .lista-ol--cuadro__vineta
                 span 1
@@ -57,7 +57,7 @@
               .lista-ol--cuadro__vineta
                 span 7
               | Ser instrumento de conductas sustentables en todos los ámbitos de la vida.
-      .col-lg-5.p-0
+      .col-lg-5.col-md-8.p-0
         img.img-mov(data-aos="zoom-in")(src='@/assets/curso/temas/2.png') 
 
     Separador 
@@ -150,7 +150,7 @@
             h1.mb-0 b 
           .col.bg8.p-2
             p.mb-0 Aprender en el ambiente.
-        .row.justify-content-center.align-items-stretch(data-aos="fade-down")           
+        .row.justify-content-center.align-items-stretch.mb-3(data-aos="fade-down")           
           .col-2.bg7.text-center
             h1.mb-0 c
           .col.bg8.p-2
@@ -191,9 +191,9 @@
     .row.justify-content-start.mb-4        
       .col-auto.bg6.p-3(data-aos="flip-down")
         h5.mb-0(data-aos="fade-down") Los PRAE
-    p(data-aos="fade-down").mb-5 Los PRAE fueron constituidos por la Ley 1549 de 2012 y se definen como los Proyectos Ambientales Escolares, cuyo propósito es fortalecer la formación de índole ambiental y ecológica en los establecimientos educativos, así:  
+    p(data-aos="fade-down").mb-5 Los PRAE fueron constituidos por la Ley 1549 de 2012 y se definen como los #[b Proyectos Ambientales] Escolares, cuyo propósito es fortalecer la formación de índole ambiental y ecológica en los establecimientos educativos, así:  
 
-    .row.justify-content-center.align-items-end          
+    .row.justify-content-center.align-items-center          
       .col-lg-4.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/17.png')
       .col-lg-6.my-3

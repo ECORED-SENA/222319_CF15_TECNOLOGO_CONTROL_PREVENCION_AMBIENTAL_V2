@@ -23,8 +23,8 @@
 
     p(data-aos="fade-down").mb-5 La promotoría ambiental se convierte en un aspecto básico y fundamental de participación de sociedad para interactuar con el medio ambiente, la sociedad y la cultura, así lo define la Dirección General de Educación, Ciudadanía e Información Ambiental. 
 
-    .row.justify-content-center.mb-5
-      .col-xl-6.col-md-9.col-11.mb-4.mb-xl-0
+    .row.justify-content-center.mb-4
+      .col-lg-6.col-md-12.d-none.d-sm-block.my-3
         .crd_hover_txt(data-aos="fade-left")
           .crd_hover_txt--img
             figure
@@ -32,8 +32,12 @@
           .crd_hover_txt--body.bg19
             h4.mb-3 Participación ciudadana
             p.mb-0 “Es un mecanismo formal de participación ciudadana que las municipalidades promueven a nivel nacional para canalizar la intervención de las personas interesadas en el mejoramiento ambiental efectivo de sus localidades, fortaleciendo así el liderazgo comunitario para que las municipalidades puedan cumplir mejor con sus funciones ambientales, entre ellas, las de difundir información y educar a los vecinos, ejecutar actividades puntuales o pequeños proyectos de mejoramiento ambiental, participar en campañas preventivas o promocionales o, en general, hacer que las políticas o instrumentos de gestión municipales sean accesibles y aplicables a escala de los barrios, las familias y las personas”. 
-
-      .col-xl-6.col-md-9.col-11.mb-4.mb-xl-0
+      .col-12.d-block.d-sm-none.my-3
+        img(src="@/assets/curso/temas/48.png", alt="alt")
+        .bg19.p-3
+          h4.mb-3 Participación ciudadana
+          p.mb-0 “Es un mecanismo formal de participación ciudadana que las municipalidades promueven a nivel nacional para canalizar la intervención de las personas interesadas en el mejoramiento ambiental efectivo de sus localidades, fortaleciendo así el liderazgo comunitario para que las municipalidades puedan cumplir mejor con sus funciones ambientales, entre ellas, las de difundir información y educar a los vecinos, ejecutar actividades puntuales o pequeños proyectos de mejoramiento ambiental, participar en campañas preventivas o promocionales o, en general, hacer que las políticas o instrumentos de gestión municipales sean accesibles y aplicables a escala de los barrios, las familias y las personas”. 
+      .col-lg-6.col-md-12.d-none.d-sm-block.my-3
         .crd_hover_txt(data-aos="fade-right")
           .crd_hover_txt--img
             figure
@@ -41,7 +45,11 @@
           .crd_hover_txt--body.bg20
             h4.mb-3 Liderazgo comunitario
             p.mb-0 “La promotoría ambiental comunitaria contribuye a fortalecer el liderazgo comunitario e identidad colectiva para incidir en la mejora de las condiciones de vida de la comunidad, reforzando su sentido de pertenencia para motivarlos a la acción. Adicionalmente, también aporta al control público (de los ciudadanos, vecinos o comuneros) sobre la gestión ambiental local (pública o privada), sea vía alertas ambientales (preventivas de riesgos o problemas), denuncias ambientales (por posibles incumplimientos, faltas, infracciones o hasta posibles delitos) o, de modo proactivo, propone iniciativas o ideas de proyectos”.  
-
+      .col-12.d-block.d-sm-none.my-3
+        img(src="@/assets/curso/temas/49.png", alt="alt")
+        .bg20.p-3
+          h4.mb-3 Liderazgo comunitario
+          p.mb-0 “La promotoría ambiental comunitaria contribuye a fortalecer el liderazgo comunitario e identidad colectiva para incidir en la mejora de las condiciones de vida de la comunidad, reforzando su sentido de pertenencia para motivarlos a la acción. Adicionalmente, también aporta al control público (de los ciudadanos, vecinos o comuneros) sobre la gestión ambiental local (pública o privada), sea vía alertas ambientales (preventivas de riesgos o problemas), denuncias ambientales (por posibles incumplimientos, faltas, infracciones o hasta posibles delitos) o, de modo proactivo, propone iniciativas o ideas de proyectos”.  
     Separador 
     #t_5_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 5.2 La promotoría ambiental en Colombia 
@@ -57,21 +65,21 @@
       TabsA.color-acento-botones
         .tarjeta.color-acento-botones--borde.p-4(titulo="Desarrollo sostenible")
           .row.justify-content-center.align-items-start
-            .col-lg-7
+            .col-lg-7.my-3
               p.mb-0 El objetivo principal de este procedimiento es promover y cualificar la participación ciudadana en los procesos de planificación, gestión y seguimiento de las políticas, planes, programas y proyectos que orientan el desarrollo sostenible y la educación ambiental, tanto en lo local como en lo regional, dentro de los lineamientos del Desarrollo Sostenible.
-            .col-lg-5
+            .col-lg-5.my-3
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/51.png')   
         .tarjeta.color-acento-botones--borde.p-4(titulo="Sensibilización de<br> comunidades")
           .row.justify-content-center.align-items-start
-            .col-lg-7
+            .col-lg-7.my-3
               p.mb-0 Para el Ministerio de Ambiente y Desarrollo Sostenible, los promotores ambientales comunitarios se convierten en ejes articuladores de las estrategias de educación ambiental, son líderes comunitarios y desarrollan proyectos y programas de apoyo a sus comunidades, generalmente, enmarcados por procesos de sensibilización y educación a sus comunidades. 
-            .col-lg-5
+            .col-lg-5.my-3
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/52.png')  
         .tarjeta.color-acento-botones--borde.p-4(titulo="Participación ciudadana")
           .row.justify-content-center.align-items-start
-            .col-lg-7
+            .col-lg-7.my-3
               p.mb-0 “Su quehacer se enmarca en la participación ciudadana, el control social a la gestión ambiental, la organización de sus comunidades en torno a la solución de las problemáticas ambientales, la preservación de las tradiciones culturales, la formulación de proyectos ciudadanos de educación ambiental, socio ambientales y de Educación Ambiental”. 
-            .col-lg-5
+            .col-lg-5.my-3
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/53.png')
 
     Separador 
@@ -94,12 +102,12 @@
 
     p(data-aos="fade-down").mb-5 Dentro de las funciones que se establecen para quienes van a desempeñar como promotores ambientales, se destacan las siguientes características:
 
-    .row.justify-content-center.align-items-start.bg4.mb-5
-      .col-lg-4.p-0
+    .row.justify-content-center.align-items-start.bg4.bg-mov.mb-5
+      .col-lg-4.col-8.p-0
         img.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/55.png')      
-      .col-lg-8(data-aos="fade-down")
-        .p-4
-          ol.lista-ol--cuadro(data-aos="fade-left")
+      .col-lg-8.mt-3(data-aos="fade-down")
+        .p-4.ul-mov
+          ol.lista-ol--cuadro.fa-ul(data-aos="fade-left")
             li.mb-4 
               .lista-ol--cuadro__vineta.c1
                 span 1
@@ -130,7 +138,7 @@
                 span 7
               | Participar en las diferentes instancias de participación ciudadana generadas por las entidades municipales.  
       .col-lg-10.my-4(data-aos="fade-down")
-        ol.lista-ol--cuadro(data-aos="fade-left")
+        ol.lista-ol--cuadro.fa-ul.fa-ul(data-aos="fade-left")
           li.mb-4 
             .lista-ol--cuadro__vineta.c1
               span 8
