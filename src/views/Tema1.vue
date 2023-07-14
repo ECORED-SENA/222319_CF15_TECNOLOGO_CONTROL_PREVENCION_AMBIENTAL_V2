@@ -191,7 +191,7 @@
     .row.justify-content-start.mb-4        
       .col-auto.bg6.p-3(data-aos="flip-down")
         h5.mb-0(data-aos="fade-down") Los PRAE
-    p(data-aos="fade-down").mb-5 Los PRAE fueron constituidos por la Ley 1549 de 2012 y se definen como los #[b Proyectos Ambientales] Escolares, cuyo propósito es fortalecer la formación de índole ambiental y ecológica en los establecimientos educativos, así:  
+    p(data-aos="fade-down").mb-5 Los PRAE fueron constituidos por la Ley 1549 de 2012 y se definen como los #[b Proyectos Ambientales Escolares], cuyo propósito es fortalecer la formación de índole ambiental y ecológica en los establecimientos educativos, así:  
 
     .row.justify-content-center.align-items-center          
       .col-lg-4.my-3

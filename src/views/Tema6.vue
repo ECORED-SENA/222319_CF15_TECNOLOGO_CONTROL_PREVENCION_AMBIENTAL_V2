@@ -520,9 +520,9 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 Explore el #[b Anexo Difusión de un proyecto de educación ambiental] y estudie atentamente todos los elementos que allí se presentan. (#[b Falta anexo en diseño])  
+                  p.mb-0 Explore el #[b Anexo Difusión de un proyecto de educación ambiental] y estudie atentamente todos los elementos que allí se presentan.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/DifusionProyectoEduAmbiental.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
