@@ -203,7 +203,7 @@
       .col-auto.bg6.p-3(data-aos="flip-down")
         h5.mb-0(data-aos="fade-down") Objetivos 
 
-    p(data-aos="fade-down") Los objetivos deben entenderse como guías que orientan el proceso de enseñanza y aprendizaje y hacia los cuales hay que orientar la marcha de este proceso (García et al., 1997).  "[b Para ahondar en los objetivos del plan de promotoría ambiental, se le invita a explorar el siguiente recurso. ¡Adelante!]
+    p(data-aos="fade-down") Los objetivos deben entenderse como guías que orientan el proceso de enseñanza y aprendizaje y hacia los cuales hay que orientar la marcha de este proceso (García et al., 1997).
 
     .bg4.p-5
       h4(data-aos="fade-down").text-center Objetivos del plan de promotoría ambiental
@@ -536,7 +536,14 @@
 
         p(data-aos="fade-down") Muchas veces, se realizan proyectos con muy poco presupuesto que son muy ingeniosos y efectivos. A continuación, se ofrece un modelo de presupuesto que puede servir como guía.
         .bg5.p-5
-          p(data-aos="fade-down").mb-0 Amplíe su comprensión sobre #[b “Presupuesto”] en un proyecto de educación ambiental, visualizando el contenido del Anexo Tabla. 3 modelo de presupuesto.
+          p(data-aos="fade-down").mb-4 Le invitamos a ampliar su conocimiento sobre el presupuesto en un proyecto de educación ambiental consultando al siguiente material descargable.
+          .row
+            .col-auto
+              a.anexo.clr_white.mb-4(:href="obtenerLink('/downloads/Anexo_Modelo_Presupuesto.pdf')" target="_blank")
+                .anexo__icono
+                  img(src="@/assets/template/icono-pdf.svg")
+                .anexo__texto
+                  p Anexo. Modelo de presupuesto
 
       .col-lg-6.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/93.png') 

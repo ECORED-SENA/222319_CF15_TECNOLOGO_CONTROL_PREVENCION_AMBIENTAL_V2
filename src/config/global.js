@@ -222,7 +222,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/222319_CF15_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -266,13 +266,6 @@ export default {
         'Compartir Palabra Maestra. (2015). <i>¿Qué es un recurso didáctico?</i> ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=10_0nVuXZqo',
-    },
-    {
-      tema: '5. Promotoría ambiental',
-      referencia:
-        'Jardín Botánico de Bogotá. (2014). <i>Formación en Promotoría Ambiental</i>  ',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=0w7JELc6ccg',
     },
     {
       tema: '5. Promotoría ambiental',
@@ -333,8 +326,7 @@ export default {
     {
       referencia:
         'Chiavenato, I. (2004). <i>Comportamiento organizacional. La dinámica del éxito en las comunicaciones</i>. McGraw-Hill Educación.',
-      link:
-        'https://www.academia.edu/29923149/Comportamiento_Organizacional_Idalberto_Chiavenato_McGrawhill_2da_Edicion_pdf',
+      link: '',
     },
     {
       referencia:
@@ -348,8 +340,7 @@ export default {
     {
       referencia:
         'Maldonado, T. (2013). <i>Promotoría Ambiental</i>. Centro de educación y capacitación para el desarrollo sustentable.',
-      link:
-        'http://189.208.102.74/u094/m-sitios/academicos/teresita/articulos/Promotoria_ambiental.pdf',
+      link: '',
     },
     {
       referencia: 'Máxima, J. (2020). <i>Comunidad</i>. Características.',
@@ -358,7 +349,7 @@ export default {
     {
       referencia:
         'Martínez, R. (2010). La importancia de la educación ambiental ante la problemática actual. <i>Revista Electrónica Educare, 14</i>(1), p. 97-111.',
-      link: 'https://www.redalyc.org/pdf/1941/194114419010.pdf.',
+      link: 'https://www.redalyc.org/pdf/1941/194114419010.pdf',
     },
     {
       referencia:
@@ -385,7 +376,8 @@ export default {
     {
       referencia:
         'Penzo, W. (2015). <i>Diseño y elaboración de actividades de aprendizaje</i>. Universitat de Barcelona.',
-      link: 'https://core.ac.uk/download/pdf/16200477.pdf.',
+      link:
+        'https://diposit.ub.edu/dspace/bitstream/2445/8448/6/Elaboracion-actividades-aprendizaje-4.pdf',
     },
     {
       referencia:
@@ -491,7 +483,7 @@ export default {
             'Centro Industrial del Diseño y la Manufactura Regional Santander',
         },
         {
-          nombre: 'Nombre',
+          nombre: 'Carlos Eduardo Garavito Parada',
           cargo: 'Animador y Producción audiovisual',
           centro:
             'Centro Industrial del Diseño y la Manufactura Regional Santander',
