@@ -136,7 +136,7 @@
       .bloque-texto-g__texto.p-5 
         p.mb-0 La educación ambiental es una corriente internacional de pensamiento y acción, su meta es procurar cambios individuales y sociales que provoquen la mejora ambiental y un desarrollo sostenible, proporcionando la información y los conocimientos necesarios en la población colombiana para que esta adquiera conciencia de los problemas del ambiente, creando en ella predisposición, motivación, sentido de responsabilidad, pertenencia y compromiso para trabajar individual y colectivamente en la búsqueda de soluciones (Rengifo et al., 2012, p. 9). 
 
-    p(data-aos="fade-down").mb-5 Según Rengifo et al. (2012), se pueden inferir tres lineamientos básicos en la educación ambiental: 
+    p(data-aos="fade-down").mb-5 Según Rengifo et al. (2012, p. 5), se pueden inferir tres lineamientos básicos en la educación ambiental: 
     
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-3
@@ -154,7 +154,7 @@
           .col-2.bg7.text-center
             h1.mb-0 c
           .col.bg8.p-2
-            p.mb-0 Aprender para el ambiente (p. 5).           
+            p.mb-0 Aprender para el ambiente.            
 
       .col-lg-7
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/12.svg') 
@@ -171,7 +171,7 @@
             .col-auto  
               img.img-a.img-t(src="@/assets/curso/temas/13.svg")
             .col-9
-              p.mb-0 Primer nivel - Fundamentos ecológicos: El propósito de este nivel de instrucción es dar al docente/estudiante informaciones sobre los sistemas terrestres de soporte vital; incluye la instrucción sobre ecología básica, ciencia de los sistemas de la Tierra, geología, meteorología, geografía física, botánica, biología, química, física, etc. (p. 9)   
+              p.mb-0 El propósito de este nivel de instrucción es dar al docente/estudiante informaciones sobre los sistemas terrestres de soporte vital; incluye la instrucción sobre ecología básica, ciencia de los sistemas de la Tierra, geología, meteorología, geografía física, botánica, biología, química, física, etc. (p. 9)   
           .row.justify-content-center.align-items-center(titulo="Segundo nivel - Concienciación conceptual")
             .col-auto  
               img.img-a.img-t(src="@/assets/curso/temas/14.svg")

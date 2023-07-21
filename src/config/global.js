@@ -354,6 +354,8 @@ export default {
     {
       referencia:
         'Ministerio del Medio Ambiente. (2020). <i>Programa Nacional de promotoría ambiental comunitaria</i>. Minambiente.',
+      link:
+        'https://archivo.minambiente.gov.co/index.php/ordenamiento-ambiental-territorial-y-coordinacion-del-sina/educacion-y-participacion/programa-nacional-de-promotoria-ambiental-comunitaria',
     },
     {
       referencia:

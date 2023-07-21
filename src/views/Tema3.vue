@@ -23,7 +23,6 @@
     .row.justify-content-center.align-items-center.bg14.mb-5
       .col-lg-6(data-aos="fade-down")
         .p-4
-          h4 Desde otras miradas
           p.mb-4 Sin embargo, la comunidad también depende del sector que aplique un área específica, por ejemplo:
           ol.lista-ol--cuadro.fa-ul(data-aos="fade-left")
             li 

@@ -31,12 +31,12 @@
               img(src="@/assets/curso/temas/48.png", alt="alt")
           .crd_hover_txt--body.bg19
             h4.mb-3 Participación ciudadana
-            p.mb-0 “Es un mecanismo formal de participación ciudadana que las municipalidades promueven a nivel nacional para canalizar la intervención de las personas interesadas en el mejoramiento ambiental efectivo de sus localidades, fortaleciendo así el liderazgo comunitario para que las municipalidades puedan cumplir mejor con sus funciones ambientales, entre ellas, las de difundir información y educar a los vecinos, ejecutar actividades puntuales o pequeños proyectos de mejoramiento ambiental, participar en campañas preventivas o promocionales o, en general, hacer que las políticas o instrumentos de gestión municipales sean accesibles y aplicables a escala de los barrios, las familias y las personas”. 
+            p.mb-0 Es un mecanismo formal de participación ciudadana que las municipalidades promueven a nivel nacional para canalizar la intervención de las personas interesadas en el mejoramiento ambiental efectivo de sus localidades, fortaleciendo así el liderazgo comunitario para que las municipalidades puedan cumplir mejor con sus funciones ambientales, entre ellas, las de difundir información y educar a los vecinos, ejecutar actividades puntuales o pequeños proyectos de mejoramiento ambiental, participar en campañas preventivas o promocionales o, en general, hacer que las políticas o instrumentos de gestión municipal sean accesibles y aplicables a escala de los barrios, las familias y las personas. 
       .col-12.d-block.d-sm-none.my-3
         img(src="@/assets/curso/temas/48.png", alt="alt")
         .bg19.p-3
           h4.mb-3 Participación ciudadana
-          p.mb-0 “Es un mecanismo formal de participación ciudadana que las municipalidades promueven a nivel nacional para canalizar la intervención de las personas interesadas en el mejoramiento ambiental efectivo de sus localidades, fortaleciendo así el liderazgo comunitario para que las municipalidades puedan cumplir mejor con sus funciones ambientales, entre ellas, las de difundir información y educar a los vecinos, ejecutar actividades puntuales o pequeños proyectos de mejoramiento ambiental, participar en campañas preventivas o promocionales o, en general, hacer que las políticas o instrumentos de gestión municipales sean accesibles y aplicables a escala de los barrios, las familias y las personas”. 
+          p.mb-0 Es un mecanismo formal de participación ciudadana que las municipalidades promueven a nivel nacional para canalizar la intervención de las personas interesadas en el mejoramiento ambiental efectivo de sus localidades, fortaleciendo así el liderazgo comunitario para que las municipalidades puedan cumplir mejor con sus funciones ambientales, entre ellas, las de difundir información y educar a los vecinos, ejecutar actividades puntuales o pequeños proyectos de mejoramiento ambiental, participar en campañas preventivas o promocionales o, en general, hacer que las políticas o instrumentos de gestión municipales sean accesibles y aplicables a escala de los barrios, las familias y las personas. 
       .col-lg-6.col-md-12.d-none.d-sm-block.my-3
         .crd_hover_txt(data-aos="fade-right")
           .crd_hover_txt--img
@@ -44,12 +44,12 @@
               img(src="@/assets/curso/temas/49.png", alt="alt")
           .crd_hover_txt--body.bg20
             h4.mb-3 Liderazgo comunitario
-            p.mb-0 “La promotoría ambiental comunitaria contribuye a fortalecer el liderazgo comunitario e identidad colectiva para incidir en la mejora de las condiciones de vida de la comunidad, reforzando su sentido de pertenencia para motivarlos a la acción. Adicionalmente, también aporta al control público (de los ciudadanos, vecinos o comuneros) sobre la gestión ambiental local (pública o privada), sea vía alertas ambientales (preventivas de riesgos o problemas), denuncias ambientales (por posibles incumplimientos, faltas, infracciones o hasta posibles delitos) o, de modo proactivo, propone iniciativas o ideas de proyectos”.  
+            p.mb-0 La promotoría ambiental comunitaria contribuye a fortalecer el liderazgo comunitario e identidad colectiva para incidir en la mejora de las condiciones de vida de la comunidad, reforzando su sentido de pertenencia para motivarlos a la acción. Adicionalmente, también aporta al control público (de los ciudadanos, vecinos o comuneros) sobre la gestión ambiental local (pública o privada), sea vía alertas ambientales (preventivas de riesgos o problemas), denuncias ambientales (por posibles incumplimientos, faltas, infracciones o hasta posibles delitos) o, de modo proactivo, propone iniciativas o ideas de proyectos.  
       .col-12.d-block.d-sm-none.my-3
         img(src="@/assets/curso/temas/49.png", alt="alt")
         .bg20.p-3
           h4.mb-3 Liderazgo comunitario
-          p.mb-0 “La promotoría ambiental comunitaria contribuye a fortalecer el liderazgo comunitario e identidad colectiva para incidir en la mejora de las condiciones de vida de la comunidad, reforzando su sentido de pertenencia para motivarlos a la acción. Adicionalmente, también aporta al control público (de los ciudadanos, vecinos o comuneros) sobre la gestión ambiental local (pública o privada), sea vía alertas ambientales (preventivas de riesgos o problemas), denuncias ambientales (por posibles incumplimientos, faltas, infracciones o hasta posibles delitos) o, de modo proactivo, propone iniciativas o ideas de proyectos”.  
+          p.mb-0 La promotoría ambiental comunitaria contribuye a fortalecer el liderazgo comunitario e identidad colectiva para incidir en la mejora de las condiciones de vida de la comunidad, reforzando su sentido de pertenencia para motivarlos a la acción. Adicionalmente, también aporta al control público (de los ciudadanos, vecinos o comuneros) sobre la gestión ambiental local (pública o privada), sea vía alertas ambientales (preventivas de riesgos o problemas), denuncias ambientales (por posibles incumplimientos, faltas, infracciones o hasta posibles delitos) o, de modo proactivo, propone iniciativas o ideas de proyectos.  
     Separador 
     #t_5_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 5.2 La promotoría ambiental en Colombia 
@@ -78,7 +78,7 @@
         .tarjeta.color-acento-botones--borde.p-4(titulo="Participación ciudadana")
           .row.justify-content-center.align-items-start
             .col-lg-7.my-3
-              p.mb-0 “Su quehacer se enmarca en la participación ciudadana, el control social a la gestión ambiental, la organización de sus comunidades en torno a la solución de las problemáticas ambientales, la preservación de las tradiciones culturales, la formulación de proyectos ciudadanos de educación ambiental, socio ambientales y de Educación Ambiental”. 
+              p.mb-0 Su quehacer se enmarca en la participación ciudadana, el control social a la gestión ambiental, la organización de sus comunidades en torno a la solución de las problemáticas ambientales, la preservación de las tradiciones culturales, la formulación de proyectos ciudadanos de educación ambiental, socio ambientales y de Educación Ambiental (Ministerio del Medio Ambiente, 2020). 
             .col-lg-5.my-3
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/53.png')
 
@@ -174,7 +174,7 @@
             .col-lg-5.my-3
               .bgw.p-3.brad
                 h4 Individuo capacitado
-                p.mb-0 “El promotor tiene relaciones establecidas dentro de la comunidad y comprende a la gente de la comunidad y la situación en la que viven, porque es uno de ellos. Esto facilita la comunicación con la gente de la comunidad”, principio fundamental del proceso de transferencia en la formación ambiental en comunidad. (ODESCA, 2012, p. 6)   
+                p.mb-0 Tomando en cuenta que las diferentes etapas en el proceso de desarrollo del ser humano, desde que nace hasta que muere, crean distntas necesidades de cambio y desarrollo, se trata entonces de “una persona que piensa y trabaja en su superación y en la de su comunidad. Para ello, se capacita y está dispuesta a multplicar o transferir su experiencia a otros, facilitando procesos de desarrollo integral”. (ODESCA, 2012, p .6)  
       .py-4.py-md-5.bg16(titulo="Soporte y complemento")
         .px-5
           .row.justify-content-center.align-items-center    
@@ -211,7 +211,7 @@
         .row.justify-content-center.mt-3
           .col-lg-4.mb-4.mb-md-0.my-3
             h4 Formador participativo:  
-            p Es un proceso por el cual se orienta el desarrollo del territorio y se encuentra “Deberá transferir los conocimientos y experiencias a las personas de las comunidades (de forma tal) que les permita ir ampliando sus conocimientos; propiciar la formación de los grupos que sean necesarios para la formulación y ejecución de proyectos; impulsar procesos de participación y capacitación comunitaria a partir de la difusión y promoción en sus comunidades”. (ODESCA, 2012, p. 6-7).fundamentado en tres principios, de acuerdo con la Ley 388 de 1997, así:
+            p Es un proceso por el cual se orienta el desarrollo del territorio y se encuentra “Deberá transferir los conocimientos y experiencias a las personas de las comunidades (de forma tal) que les permita ir ampliando sus conocimientos; propiciar la formación de los grupos que sean necesarios para la formulación y ejecución de proyectos; impulsar procesos de participación y capacitación comunitaria a partir de la difusión y promoción en sus comunidades”. (ODESCA, 2012, p. 6-7).fundamentado en tres principios, de acuerdo con la Ley 388 de 1997.
           .col-lg-7.my-3
             img.img-a.img-t(src='@/assets/curso/temas/61.png', alt='') 
         .row.justify-content-center.mt-3

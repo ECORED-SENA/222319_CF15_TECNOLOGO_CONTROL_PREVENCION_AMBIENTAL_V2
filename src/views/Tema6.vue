@@ -182,9 +182,6 @@
             img.img-a.img-t.mb-4(src='@/assets/curso/temas/74.svg' alt='AvatarTop')
             h5.mb-0 Las bases del proyecto: recursos y posibilidades de este.  
           .tarjeta.color-primario.bor.bg2.ts.h-100.p-4
-            img.img-a.img-t.mb-4(src='@/assets/curso/temas/75.svg' alt='AvatarTop')
-            h5.mb-0 Descripción de la situación de partida. 
-          .tarjeta.color-primario.bor.bg2.ts.h-100.p-4
             img.img-a.img-t.mb-4(src='@/assets/curso/temas/76.svg' alt='AvatarTop')
             h5.mb-0 Las limitaciones con las que puede encontrarse.  
           .tarjeta.color-primario.bor.bg2.ts.h-100.p-4
@@ -192,7 +189,7 @@
             h5.mb-0 El punto de vista del personal técnico, de la comunidad y del grupo político.  
           .tarjeta.color-primario.bor.bg2.ts.h-100.p-4
             img.img-a.img-t.mb-4(src='@/assets/curso/temas/78.svg' alt='AvatarTop')
-            h5 Y si la situación lo requiere
+            h5 Y si la situación lo requiere:
             p.text-start a) Marco legislativo en el que se apoya.
             p.text-start.mb-0 b) Marco teórico (participación, solidaridad, intercambio, etc.).
 

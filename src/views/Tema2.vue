@@ -45,7 +45,7 @@
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/18.svg')
                 .col
                   h4 CONPES No. 2544 - DEPAC de agosto 1 de 1991 
-                  p.mb-0  “Una Política Ambiental para Colombia” – DNP. Se ubica como una de las estrategias fundamentales para reducir las tendencias de deterioro ambiental y para el desarrollo de una nueva concepción en la relación sociedad - naturaleza. En su capítulo 2, literal C, se refiere a la gestión ambiental en áreas estratégicas y reconoce la educación ambiental en todos sus niveles, formal y no formal, así como un plan nacional de Educación Ambiental, estableciendo los objetivos de dicha política 
+                  p.mb-0  “Una Política Ambiental para Colombia” – DNP. Se ubica como una de las estrategias fundamentales para reducir las tendencias de deterioro ambiental y para el desarrollo de una nueva concepción en la relación sociedad - naturaleza. En su capítulo 2, literal C, se refiere a la gestión ambiental en áreas estratégicas y reconoce la educación ambiental en todos sus niveles, formal y no formal, así como un plan nacional de Educación Ambiental, estableciendo los objetivos de dicha política. 
 
           .row.justify-content-center        
             .col-lg-11.brad.bg4.h-100.p-4.mb-4
@@ -200,32 +200,32 @@
           .col-11
             .bgw.brad.p-5
               h4 Antecedentes y justificación
-              p.mb-0 se hace un desarrollo de las políticas a nivel internacional, así como a nivel nacional, para poder desarrollar un diagnóstico de la situación normativa del país.  
+              p.mb-0 Se hace un desarrollo de las políticas a nivel internacional, así como a nivel nacional, para poder desarrollar un diagnóstico de la situación normativa del país.  
         .row.justify-content-center.align-items-center(titulo="3. Objetivos")
           .col-11
             .bgw.brad.p-5
               h4 Objetivos
-              p.mb-0 se establecen los diferentes objetivos, tanto generales como específicos, para el desarrollo ambiental en el país.   
+              p.mb-0 Se establecen los diferentes objetivos, tanto generales como específicos, para el desarrollo ambiental en el país.   
         .row.justify-content-center.align-items-center(titulo="4. Lineamientos conceptuales básicos y visión")
           .col-11
             .bgw.brad.p-5
               h4 Lineamientos conceptuales básicos y visión
-              p.mb-0 se identifica la situación y la educación ambiental del país, se tienen en cuenta diferentes actores como las escuelas, las universidades, los investigadores y el Sistema Nacional Ambiental (SINA).  
+              p.mb-0 Se identifica la situación y la educación ambiental del país, se tienen en cuenta diferentes actores como las escuelas, las universidades, los investigadores y el Sistema Nacional Ambiental (SINA).  
         .row.justify-content-center.align-items-center(titulo="5. Principios que orientan la educación ambiental")
           .col-11
             .bgw.brad.p-5
               h4 Principios que orientan la educación ambiental 
-              p.mb-0 se tienen en cuenta los individuos, sociedades, culturas y entornos a los cuales debe llegar la educación ambiental en el país y se establecen los principios para orientarla.  
+              p.mb-0 Se tienen en cuenta los individuos, sociedades, culturas y entornos a los cuales debe llegar la educación ambiental en el país y se establecen los principios para orientarla.  
         .row.justify-content-center.align-items-center(titulo="6. Estrategias y retos")
           .col-11
             .bgw.brad.p-5
               h4 Estrategias y retos
-              p.mb-0 se establecen las relaciones interinstitucionales con el fin de llevar a cabo las políticas planteadas, aquí se tienen en cuenta las relaciones, desde el individuo en su participación ciudadana hasta los ministerios con las políticas nacionales.  
+              p.mb-0 Se establecen las relaciones interinstitucionales con el fin de llevar a cabo las políticas planteadas, aquí se tienen en cuenta las relaciones, desde el individuo en su participación ciudadana hasta los ministerios con las políticas nacionales.  
         .row.justify-content-center.align-items-center(titulo="7. Financiación")
           .col-11
             .bgw.brad.p-5
               h4 Financiación
-              p.mb-0 se establecen las relaciones interinstitucionales con el fin de llevar a cabo las políticas planteadas, aquí se tienen en cuenta las relaciones, desde el individuo en su participación ciudadana hasta los ministerios con las políticas nacionales. 
+              p.mb-0 Se establecen las relaciones interinstitucionales con el fin de llevar a cabo las políticas planteadas, aquí se tienen en cuenta las relaciones, desde el individuo en su participación ciudadana hasta los ministerios con las políticas nacionales. 
         .row.justify-content-center.align-items-center(titulo="8. Recomendaciones")
           .col-11
             .bgw.brad.p-5
