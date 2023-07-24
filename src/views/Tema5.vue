@@ -31,12 +31,12 @@
               img(src="@/assets/curso/temas/48.png", alt="alt")
           .crd_hover_txt--body.bg19
             h4.mb-3 Participación ciudadana
-            p.mb-0 Es un mecanismo formal de participación ciudadana que las municipalidades promueven a nivel nacional para canalizar la intervención de las personas interesadas en el mejoramiento ambiental efectivo de sus localidades, fortaleciendo así el liderazgo comunitario para que las municipalidades puedan cumplir mejor con sus funciones ambientales, entre ellas, las de difundir información y educar a los vecinos, ejecutar actividades puntuales o pequeños proyectos de mejoramiento ambiental, participar en campañas preventivas o promocionales o, en general, hacer que las políticas o instrumentos de gestión municipal sean accesibles y aplicables a escala de los barrios, las familias y las personas. 
+            p.mb-0 Es un mecanismo formal de participación ciudadana que las municipalidades promueven a nivel nacional para canalizar la intervención de las personas interesadas en el mejoramiento ambiental efectivo de sus localidades, fortaleciendo así el liderazgo comunitario para que las municipalidades puedan cumplir mejor con sus funciones ambientales, entre ellas, las de difundir información y educar a los vecinos, ejecutar actividades puntuales o pequeños proyectos de mejoramiento ambiental, participar en campañas preventivas o promocionales o, en general, hacer que las políticas o instrumentos de gestión municipal sean accesibles y aplicables a escala de los barrios, las familias y las personas (Ministerio del Medio Ambiente, 2020). 
       .col-12.d-block.d-sm-none.my-3
         img(src="@/assets/curso/temas/48.png", alt="alt")
         .bg19.p-3
           h4.mb-3 Participación ciudadana
-          p.mb-0 Es un mecanismo formal de participación ciudadana que las municipalidades promueven a nivel nacional para canalizar la intervención de las personas interesadas en el mejoramiento ambiental efectivo de sus localidades, fortaleciendo así el liderazgo comunitario para que las municipalidades puedan cumplir mejor con sus funciones ambientales, entre ellas, las de difundir información y educar a los vecinos, ejecutar actividades puntuales o pequeños proyectos de mejoramiento ambiental, participar en campañas preventivas o promocionales o, en general, hacer que las políticas o instrumentos de gestión municipales sean accesibles y aplicables a escala de los barrios, las familias y las personas. 
+          p.mb-0 Es un mecanismo formal de participación ciudadana que las municipalidades promueven a nivel nacional para canalizar la intervención de las personas interesadas en el mejoramiento ambiental efectivo de sus localidades, fortaleciendo así el liderazgo comunitario para que las municipalidades puedan cumplir mejor con sus funciones ambientales, entre ellas, las de difundir información y educar a los vecinos, ejecutar actividades puntuales o pequeños proyectos de mejoramiento ambiental, participar en campañas preventivas o promocionales o, en general, hacer que las políticas o instrumentos de gestión municipales sean accesibles y aplicables a escala de los barrios, las familias y las personas (Ministerio del Medio Ambiente, 2020).
       .col-lg-6.col-md-12.d-none.d-sm-block.my-3
         .crd_hover_txt(data-aos="fade-right")
           .crd_hover_txt--img
@@ -174,7 +174,7 @@
             .col-lg-5.my-3
               .bgw.p-3.brad
                 h4 Individuo capacitado
-                p.mb-0 Tomando en cuenta que las diferentes etapas en el proceso de desarrollo del ser humano, desde que nace hasta que muere, crean distntas necesidades de cambio y desarrollo, se trata entonces de “una persona que piensa y trabaja en su superación y en la de su comunidad. Para ello, se capacita y está dispuesta a multplicar o transferir su experiencia a otros, facilitando procesos de desarrollo integral”. (ODESCA, 2012, p .6)  
+                p.mb-0 Tomando en cuenta que las diferentes etapas en el proceso de desarrollo del ser humano, desde que nace hasta que muere, crean distintas necesidades de cambio y desarrollo, se trata entonces de “una persona que piensa y trabaja en su superación y en la de su comunidad. Para ello, se capacita y está dispuesta a multplicar o transferir su experiencia a otros, facilitando procesos de desarrollo integral”. (ODESCA, 2012, p .6)  
       .py-4.py-md-5.bg16(titulo="Soporte y complemento")
         .px-5
           .row.justify-content-center.align-items-center    

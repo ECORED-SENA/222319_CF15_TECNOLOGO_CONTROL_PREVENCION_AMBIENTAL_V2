@@ -220,12 +220,14 @@
           .col-11
             .bgw.brad.p-5
               h4 Estrategias y retos
-              p.mb-0 Se establecen las relaciones interinstitucionales con el fin de llevar a cabo las políticas planteadas, aquí se tienen en cuenta las relaciones, desde el individuo en su participación ciudadana hasta los ministerios con las políticas nacionales.  
+              p.mb-0 Se establecen las relaciones interinstitucionales con el fin de llevar a cabo las políticas planteadas, aquí se tienen en cuenta las relaciones, desde el individuo en su participación ciudadana hasta los ministerios con las políticas nacionales.
+ 
         .row.justify-content-center.align-items-center(titulo="7. Financiación")
           .col-11
             .bgw.brad.p-5
               h4 Financiación
-              p.mb-0 Se establecen las relaciones interinstitucionales con el fin de llevar a cabo las políticas planteadas, aquí se tienen en cuenta las relaciones, desde el individuo en su participación ciudadana hasta los ministerios con las políticas nacionales. 
+              p.mb-0 Se establecen las estrategias económicas para llevar a cabo las políticas con instituciones locales, regionales, nacionales e internacionales.
+            
         .row.justify-content-center.align-items-center(titulo="8. Recomendaciones")
           .col-11
             .bgw.brad.p-5
