@@ -44,7 +44,7 @@
               img(src="@/assets/curso/temas/49.png", alt="alt")
           .crd_hover_txt--body.bg20
             h4.mb-3 Liderazgo comunitario
-            p.mb-0 La promotoría ambiental comunitaria contribuye a fortalecer el liderazgo comunitario e identidad colectiva para incidir en la mejora de las condiciones de vida de la comunidad, reforzando su sentido de pertenencia para motivarlos a la acción. Adicionalmente, también aporta al control público (de los ciudadanos, vecinos o comuneros) sobre la gestión ambiental local (pública o privada), sea vía alertas ambientales (preventivas de riesgos o problemas), denuncias ambientales (por posibles incumplimientos, faltas, infracciones o hasta posibles delitos) o, de modo proactivo, propone iniciativas o ideas de proyectos.  
+            p.mb-0 La promotoría ambiental comunitaria contribuye a fortalecer el liderazgo comunitario e identidad colectiva para incidir en la mejora de las condiciones de vida de la comunidad, reforzando su sentido de pertenencia para motivarlos a la acción. Adicionalmente, también aporta al control público (de los ciudadanos, vecinos o comuneros) sobre la gestión ambiental local (pública o privada), sea vía alertas ambientales (preventivas de riesgos o problemas), denuncias ambientales (por posibles incumplimientos, faltas, infracciones o hasta posibles delitos) o, de modo proactivo, propone iniciativas o ideas de proyectos (Ministerio del Medio Ambiente, 2020). 
       .col-12.d-block.d-sm-none.my-3
         img(src="@/assets/curso/temas/49.png", alt="alt")
         .bg20.p-3
